@@ -65,7 +65,8 @@ ____________________________________________________________
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1280" height="940" alt="image" src="https://github.com/user-attachments/assets/a8f19107-4b9c-454b-9a92-b671485ca49d" />
+
 
 ---
 
@@ -87,7 +88,24 @@ ____________________________________________________________
 
 
 #### Program
-
+```asm
+code segment
+assume cs:code,ds: code
+org 1000h
+mov si, 1200h
+mov ax, [si]
+mov bx, [si+02h]
+mov c1,00h
+sub ax, bx
+jnc 11
+inc cl
+l1:mov[si+04h],ax
+mov[si+06hl,cl
+mov ah, 4ch
+int 21h
+code ends
+end
+```
 
 
 #### Output Table
@@ -102,12 +120,17 @@ ______________________________________________________
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1280" height="814" alt="image" src="https://github.com/user-attachments/assets/7684923b-8875-4e14-b4c3-1228953fb437" />
+
 
 ---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="639" height="432" alt="image" src="https://github.com/user-attachments/assets/f517368d-7391-49be-8688-a3ab9ce53a52" />
+<img width="637" height="437" alt="image" src="https://github.com/user-attachments/assets/7b64420f-64fa-4eb6-9dd8-39bf13f81b20" />
+
+
 
 ## 3. MULTIPLICATION
 
@@ -154,7 +177,8 @@ END
 ______________________________________________________
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1212" height="914" alt="image" src="https://github.com/user-attachments/assets/6ebb8f4b-067c-4008-871f-d5a16d217362" />
+
 
 ---
 
@@ -202,10 +226,13 @@ END
 ______________________________________________________
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1280" height="674" alt="image" src="https://github.com/user-attachments/assets/00dceaad-9f78-42c0-93f8-0271791d841f" />
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+<img width="637" height="430" alt="image" src="https://github.com/user-attachments/assets/a2aa44be-f1b1-41f0-b69b-01f0810a0cb0" />
+<img width="940" height="705" alt="image" src="https://github.com/user-attachments/assets/b6ee8060-ab78-41fe-8d7d-9773a082bbad" />
 
 
 
