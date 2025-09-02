@@ -71,6 +71,9 @@ ____________________________________________________________
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="641" height="435" alt="image" src="https://github.com/user-attachments/assets/aac8de55-c8af-45d2-a4e1-1518ec600e6e" />
+
+<img width="634" height="434" alt="image" src="https://github.com/user-attachments/assets/1e2f12aa-8429-4a9f-bb85-adc49bcfd525" />
 
 ## 2. SUBTRACTION
 
@@ -177,12 +180,14 @@ END
 ______________________________________________________
 #### Manual Calculations
 
-<img width="1212" height="914" alt="image" src="https://github.com/user-attachments/assets/6ebb8f4b-067c-4008-871f-d5a16d217362" />
+<img width="644" height="432" alt="image" src="https://github.com/user-attachments/assets/833a1ff7-1348-433b-afd2-f547883e71f8" />
+<img width="639" height="426" alt="image" src="https://github.com/user-attachments/assets/c40e0b10-0880-4131-8186-4966ee5e93d0" />
 
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="639" height="425" alt="image" src="https://github.com/user-attachments/assets/6509e115-24a9-4cc5-8388-e51970f351f4" />
 
 ## 4. DIVISION
 
