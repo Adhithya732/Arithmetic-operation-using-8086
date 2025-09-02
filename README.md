@@ -179,15 +179,13 @@ END
 |  1203:34                |                          |
 ______________________________________________________
 #### Manual Calculations
-
-<img width="644" height="432" alt="image" src="https://github.com/user-attachments/assets/833a1ff7-1348-433b-afd2-f547883e71f8" />
-<img width="639" height="426" alt="image" src="https://github.com/user-attachments/assets/c40e0b10-0880-4131-8186-4966ee5e93d0" />
-
+<img width="1280" height="814" alt="image" src="https://github.com/user-attachments/assets/69207b21-9b79-4cd1-9197-de01fc252139" />
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-<img width="639" height="425" alt="image" src="https://github.com/user-attachments/assets/6509e115-24a9-4cc5-8388-e51970f351f4" />
+<img width="644" height="432" alt="image" src="https://github.com/user-attachments/assets/833a1ff7-1348-433b-afd2-f547883e71f8" />
+<img width="639" height="426" alt="image" src="https://github.com/user-attachments/assets/c40e0b10-0880-4131-8186-4966ee5e93d0" />
 
 ## 4. DIVISION
 
