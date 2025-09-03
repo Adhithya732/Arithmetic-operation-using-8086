@@ -182,7 +182,8 @@ END
 |  1203:34                |                          |
 ______________________________________________________
 #### Manual Calculations
-<img width="1280" height="814" alt="image" src="https://github.com/user-attachments/assets/69207b21-9b79-4cd1-9197-de01fc252139" />
+<img width="1212" height="914" alt="image" src="https://github.com/user-attachments/assets/48573077-7dc0-4b6f-a0b8-13e1f8943a4d" />
+
 
 ---
 
