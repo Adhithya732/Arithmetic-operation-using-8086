@@ -71,9 +71,10 @@ ____________________________________________________________
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-<img width="641" height="435" alt="image" src="https://github.com/user-attachments/assets/aac8de55-c8af-45d2-a4e1-1518ec600e6e" />
+<img width="640" height="423" alt="image" src="https://github.com/user-attachments/assets/587d94a7-425d-4cbc-bbd0-bc9fdd3ab439" />
 
-<img width="634" height="434" alt="image" src="https://github.com/user-attachments/assets/1e2f12aa-8429-4a9f-bb85-adc49bcfd525" />
+<img width="638" height="420" alt="image" src="https://github.com/user-attachments/assets/8239608e-460d-43b5-81ff-32192cde6ca2" />
+
 
 ## 2. SUBTRACTION
 
@@ -130,8 +131,10 @@ ______________________________________________________
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-<img width="639" height="432" alt="image" src="https://github.com/user-attachments/assets/f517368d-7391-49be-8688-a3ab9ce53a52" />
-<img width="637" height="437" alt="image" src="https://github.com/user-attachments/assets/7b64420f-64fa-4eb6-9dd8-39bf13f81b20" />
+<img width="640" height="433" alt="image" src="https://github.com/user-attachments/assets/36adde35-9d79-4211-ab91-f1e171b36c1b" />
+
+<img width="638" height="425" alt="image" src="https://github.com/user-attachments/assets/69d08656-7203-45f8-868b-e4c3adb1c060" />
+
 
 
 
@@ -184,8 +187,9 @@ ______________________________________________________
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-<img width="644" height="432" alt="image" src="https://github.com/user-attachments/assets/833a1ff7-1348-433b-afd2-f547883e71f8" />
-<img width="639" height="426" alt="image" src="https://github.com/user-attachments/assets/c40e0b10-0880-4131-8186-4966ee5e93d0" />
+<img width="636" height="421" alt="image" src="https://github.com/user-attachments/assets/809f8a5c-0e2d-43d2-8697-ff2cad8ba3a7" />
+
+<img width="640" height="425" alt="image" src="https://github.com/user-attachments/assets/8e321124-ec60-4d86-8fa8-ec598e5edc94" />
 
 ## 4. DIVISION
 
@@ -234,8 +238,10 @@ ______________________________________________________
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
-<img width="637" height="430" alt="image" src="https://github.com/user-attachments/assets/a2aa44be-f1b1-41f0-b69b-01f0810a0cb0" />
-<img width="940" height="705" alt="image" src="https://github.com/user-attachments/assets/b6ee8060-ab78-41fe-8d7d-9773a082bbad" />
+<img width="647" height="430" alt="image" src="https://github.com/user-attachments/assets/4006e84a-4146-404f-9a2d-c1e2127cef95" />
+
+<img width="637" height="431" alt="image" src="https://github.com/user-attachments/assets/4edc2df0-cdef-4b07-87eb-d7cc120d25c8" />
+
 
 
 
